@@ -17,5 +17,5 @@ Run the included ipython notebook, or see it hosted: [Youtube Chord OCR notebook
 
 The goal is to create a labeled data set in order train a machine learning algorithm to recognize chords. See:
 
-- [Creating a chord classifier using neural networks](http://henri.io/posts//posts/chord-classification-using-neural-networks.html)
+- [Creating a chord classifier using neural networks](http://henri.io/posts/chord-classification-using-neural-networks.html)
 - [Youtube chord ocr](http://henri.io/posts/youtube-chord-ocr.html)
